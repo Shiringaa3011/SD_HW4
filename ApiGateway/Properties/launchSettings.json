@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ApiGateway": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
